@@ -2,5 +2,6 @@ Rencana content saya
 - Bikin Video Java script
   * Mau Bikin ES6
   * Framework Javascript
+- Strukture data dasar
 - Bikin PHP Framework
 - Interview
