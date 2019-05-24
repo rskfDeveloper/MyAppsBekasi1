@@ -3,6 +3,7 @@ Rencana content saya
   * Mau Bikin ES6
   * Framework Javascript
     ^ Vue
+    ^ React
 - Strukture data dasar
 - Bikin PHP Framework
   ^ Laravel
