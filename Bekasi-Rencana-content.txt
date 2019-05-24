@@ -1,0 +1,4 @@
+Rencana content saya
+- Bikin Video Java script
+- Bikin PHP Framework
+- Interview
